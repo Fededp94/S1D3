@@ -1,0 +1,75 @@
+/** HEADER **/
+header, h1{
+    text-align: center;
+}
+
+header div img{
+    width: 30vh;
+}
+
+header hr{
+    border: 1px solid yellow;
+}
+
+#scritta p{
+    color: #107777;
+    margin-bottom: 20vh;
+}
+/** MAIN **/
+
+main{
+    margin-left: 50vh;
+}
+
+main section p{
+    margin-left: 6vh;
+}
+
+.margine{
+    margin-left: 6vh;
+}
+
+figure img{
+    border-radius: 20px;
+}
+
+figure figcaption{
+    margin-left: 45vh;
+    color: lightgray;
+}
+
+.margine h2{
+    color: #b13c06;
+    margin-bottom: -3vh;
+}
+
+.margine ins{
+    color: #006868;
+    margin-left: -6vh;
+}
+
+main hr{
+    margin-right: 45vh;
+    border: 1px solid #bef2f1;
+}
+
+/** FOOTER **/
+
+footer{
+    margin-left: 56vh;
+}
+
+footer ol{
+    margin-left: 1vh;
+}
+
+footer section ins {
+    color: #006868;
+}
+
+footer section div p{
+    margin-left: 7vh;
+}
+
+
+
